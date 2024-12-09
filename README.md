@@ -1,35 +1,41 @@
-# co-people
+# Job Portal Project
 
-Job Portal Project
+## Description
 
-Description
+A dynamic Job Portal web application developed using Java, JSP, MySQL, and modern front-end technologies. This platform enables users to search and apply for job opportunities while providing administrators with tools to manage jobs and users efficiently.
 
-A dynamic Job Portal web application built using Java, JSP, MySQL, and modern front-end technologies. The project enables users to search and apply for job listings, and provides administrators with tools to manage jobs and users efficiently.
+## Features
 
-Features
-•User authentication and role-based access (admin, user)
-•Post and manage job listings with CRUD operations
-•Job search and filtering based on various criteria
-•Interactive user interface with responsive design
-•User profile management and application tracking
+- User authentication with role-based access (admin, user)
+- Post and manage job listings with full CRUD operations
+- Search and filter job listings by criteria
+- Responsive and interactive user interface
+- User profile management and application tracking
 
-Technologies Used
-•Java
-•JSP (JavaServer Pages)
-•MySQL
-•HTML
-•CSS (including flexbox and grid layouts)
-•JavaScript
+## Technologies Used
 
-Screenshots
+- Java
+- JSP (JavaServer Pages)
+- MySQL
+- HTML
+- CSS (with Flexbox and Grid Layouts)
+- JavaScript
 
-![Screenshot 1]() ![Screenshot 2]() ![Screenshot 3]()
+## Screenshots
 
-Installation and Usage
-1.Clone the repository: git clone https://github.com/jainamthakkar/Job-Portal.git
-2.Set up the MySQL database using the GUI or CMD.
-3.Build and deploy the project on a Java Servlet container (e.g., Apache Tomcat)
-4.Access the application via http://localhost:8081/job-portal
+![Home Page](#)  
+![Admin Dashboard](#)  
+![User Profile](#)  
 
-Contributors
-•Jainam Thakkar
+## Installation and Usage
+
+ Clone the repository:
+   git clone https://github.com/bharathi7890/co-people.git
+Set up the MySQL database by importing the provided SQL scripts.
+Configure the database connection details in the project files.
+Deploy the project on a Java Servlet container (e.g., Apache Tomcat).
+Access the application at
+  http://localhost:8081/job-portal
+## Contributors
+. Bharathiraja
+
